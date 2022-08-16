@@ -1,0 +1,9 @@
+int main(){
+    float id1,id2;
+    int id3;
+    id1 = 123*id1;
+    while(id1 < 12){
+        id1 = 100;
+        id2 = 89*1;
+    }
+}

@@ -1,0 +1,5 @@
+begin 
+    entero e1,e2;
+    real r1,r2;
+    e1:=(e2-e1)*78..6;
+end

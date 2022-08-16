@@ -1,0 +1,10 @@
+begin 
+    entero e1;
+    real r1,r4;
+    e1:=3; 
+    while(e1<7)
+        e1:=7;
+        r1:=e1+r4;
+    endwhile;
+    r1:=r1+3212.12;
+end

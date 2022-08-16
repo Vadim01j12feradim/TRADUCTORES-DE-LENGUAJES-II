@@ -1,0 +1,11 @@
+begin 
+    entero e1,e2;
+    real r1,r2;
+    if(e1<7)
+        i1:=8;
+    else
+        while(e1<7)
+            e1:=3*r1;
+        endwhile;
+    end;
+end

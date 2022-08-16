@@ -1,0 +1,4 @@
+begin 
+    entero if;
+    e1:=5*4+2;
+end

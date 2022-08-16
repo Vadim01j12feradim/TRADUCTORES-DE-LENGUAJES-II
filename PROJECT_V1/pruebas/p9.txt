@@ -1,0 +1,45 @@
+begin 
+    entero e1,e2;
+    real r1,r2;
+    if(e1<7)
+        e1:=8;
+        if(e1<>9)
+            e1:=e2;
+        end;
+    else
+        while(e1<7)
+            e1:=3*r1;
+            if(e1<9)
+                e2:=9;
+            end;
+        endwhile;
+    end;
+    e1:=e2*890;
+    while(e1>0)
+        e1:=e1-12;
+    endwhile;
+    if(e1<90)
+        e2:=97;
+        e2:=2;
+        e1:=(e2-e1)*78.6;
+    end;
+    if(e1<78)
+        e2:=100;
+        while(e1<>e2)
+            e1:=e2-1;
+        endwhile;
+        e1:=(e2-e1)*78.6;
+    end;
+    r1:=8912.2;
+    while(e1<>e2)
+        e2:=e2-2;
+        while(e1<>6)
+            if(e1<6)
+                e2:=e2-2;
+            end;
+            e2:=e2-1;
+        endwhile;
+    endwhile;
+    r1:=r2+12;
+    r1:=e1+(e2/12);
+end

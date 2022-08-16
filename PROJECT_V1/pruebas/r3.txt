@@ -1,0 +1,8 @@
+begin 
+    entero e1,e2;
+    real r1,r2;
+    if(r1<3)
+        e1:=r1*(34-e2);
+    else
+        r2:=15.4-r1;
+end
