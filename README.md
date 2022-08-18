@@ -1,12 +1,8 @@
 # TRADUCTORES-DE-LENGUAJES-II
 
-1._ En esta version no se cuenta aun con la implementacion de la instruccion return, sin embargo la teclaracion, asignacion y demas funciona perfectamente.
-2._ Ya es posibhle realizar la sentencia if junto con el else asi como el and expresado como && y tambien el or representado con un ||.
-3._ La sentencia While aun cuenta con algunas inconsistencias ya que marca errores que no deveria aunque para la version actual no es requerido se espera que para la proxima version ya funcione en su totalidad.
-4._ En el pdf "Tarea Mini generador léxico_GMI.pdf" se encuentran algunas capturas de algunos casos de ejecucion.
-
-
-
-
-
-
+1._ El proyecto se realizo en Visual Studio Code, por ello el primer paso aunque se pueden utilizar otras     herramientas es descargar Visual Studio Code.
+2._ El siguiente paso es descargar el proyecto por lo que se puede hacer un git clone para ello.
+3._ Se puede instalar la extencion de live server en Visual Studio Code.
+4._ Cuando se tenga instalada la extencion se da clic en Open Whit Live Server.
+5._ Se habre en el navegador predeterminado en la direccion localhost:55000.
+6._ Se carga el fichero de texto y se da clic en el boton de analizar.
