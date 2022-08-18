@@ -1,0 +1,17 @@
+int i1,i2;
+float f1;
+
+while(8!=2 || 3==0){
+    return 2.3;
+}
+
+if(8!=2 || 3==0){
+    return 2.3;
+}else{
+    return 2.3;
+}
+
+while(8!=2 || 3==0){
+    return 2.3;
+}
+int i3,i4,y7
